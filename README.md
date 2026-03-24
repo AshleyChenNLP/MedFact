@@ -30,4 +30,51 @@ The specific goal of the task is defined as follows: given a set of medical clai
 本次评测使用的 **MEDFACT** 数据集包含 **1,321 个医学问题**和 **7,409 条医疗论断**。该数据集经过精心划分，按 **70% : 15% : 15%** 的比例分割，以确保各子集之间的独立性。
  
 The **MEDFACT** dataset used in this evaluation contains **1,321 medical questions** and **7,409 medical claims**. The dataset is carefully split in a ratio of **70% : 15% : 15%** to ensure independence between subsets.
+
+### 数据统计 | Dataset Statistics
+<img src="assets/table1.png" alt="Table 1" width="600"/>
+
+### 数据集示例 | Dataset Example
+
+<img src="assets/table2.png" alt="Table 2: Dataset Examples" width="700"/>
+
+## 评价标准 | Evaluation Metrics
  
+基于 MEDFACT 论文的实验设置和数据分布特点，我们将使用 **Macro-F1** 作为最终成绩的评价标准。在面向参赛者的排行榜中，我们也会展示以下指标，帮助参赛者更好地优化模型：
+ 
+Based on the experimental setup and data distribution of the MEDFACT paper, **Macro-F1** will be used as the primary evaluation metric for final rankings. The following additional metrics will also be displayed on the leaderboard to help participants better optimize their models:
+ 
+- **Macro-F1**（主要指标 / Primary Metric）
+- Accuracy
+- Macro Precision
+- Macro Recall
+- Per-class F1-Score
+---
+
+## 评测赛程 | Schedule （暂定）
+
+- **评测任务发布 / Task Release**：2026/02/01
+- **报名时间 / Registration**：2026/02/01 – 2026/06/10
+- **训练集发布 / Training Set Release**：2026/04/01
+- **测试集 A 榜发布 / Test-A Release**（非最终测试集，不计分 / Unranked）：2026/04/11
+- **测试集 A 榜提交截止 / Test-A Submission Deadline**：2026/06/11
+- **测试集 B 榜发布 / Test-B Release**（即最终排名成绩 / Official Final Ranking）：2026/06/21
+- **测试集 B 榜提交截止 / Test-B Submission Deadline**：2026/06/30
+- **获奖队伍提交材料 / Award Qualification Submission**（核实无误即可获得颁奖资格，不合格者延顺 / Disqualified teams will be replaced in order）：2026/07/01 – 2026/07/09
+- **提交中英文技术报告 / Technical Report Submission**：2026/07/10
+- **公布颁奖队伍 / Award Announcement**：2026/07/20
+- **评测论文审稿 & 录用通知 / Paper Review & Acceptance Notification**：2026/07/25
+- **评测论文 Camera-Ready 版提交 / Camera-Ready Submission**：2026/08/15
+- **评测论文纠错排版 & 提交 ACL/CCL Anthology 收录 / Anthology Submission**：2026/09/15
+- **CCL 2026 技术评测研讨会 / CCL 2026 Evaluation Workshop**：2026/10
+
+## 任务奖项 | Awards
+ 
+本届评测将设置**一、二、三等奖**，由**中国中文信息学会**提供荣誉证书。
+ 
+---
+
+## 网站建设与论文评审 | Website & Paper Review
+ 组织方正在计划开设一个leaderboard网站，网站上线后将承担报名和结果提交等功能。
+
+---
