@@ -55,7 +55,7 @@ Based on the experimental setup and data distribution of the MEDFACT paper, **Ma
 
 - **评测任务发布 / Task Release**：2026/02/01
 - **报名时间 / Registration**：2026/02/01 – 2026/06/10
-- **训练集发布 / Training Set Release**：2026/04/01
+- **训练集发布 / Training Set Release**：2026/04/15
 - **测试集 A 榜发布 / Test-A Release**（非最终测试集，不计分 / Unranked）：2026/04/11
 - **测试集 A 榜提交截止 / Test-A Submission Deadline**：2026/06/11
 - **测试集 B 榜发布 / Test-B Release**（即最终排名成绩 / Official Final Ranking）：2026/06/21
