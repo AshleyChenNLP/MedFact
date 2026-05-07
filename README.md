@@ -55,15 +55,15 @@ Based on the experimental setup and data distribution of the MEDFACT paper, **Ma
 
 - **评测任务发布 / Task Release**：2026/02/01
 - **报名时间 / Registration**：2026/02/01 – 2026/06/10
-- **训练集发布 / Training Set Release**：2026/04/20
-- **测试集 A 榜发布 / Test-A Release**（非最终测试集，不计分 / Unranked）：2026/04/11
-- **测试集 A 榜提交截止 / Test-A Submission Deadline**：2026/06/11
-- **测试集 B 榜发布 / Test-B Release**（即最终排名成绩 / Official Final Ranking）：2026/06/21
-- **测试集 B 榜提交截止 / Test-B Submission Deadline**：2026/06/30
-- **获奖队伍提交材料 / Award Qualification Submission**（核实无误即可获得颁奖资格，不合格者延顺 / Disqualified teams will be replaced in order）：2026/07/01 – 2026/07/09
-- **提交中英文技术报告 / Technical Report Submission**：2026/07/10
-- **公布颁奖队伍 / Award Announcement**：2026/07/20
-- **评测论文审稿 & 录用通知 / Paper Review & Acceptance Notification**：2026/07/25
+- **训练集发布 / Training Set Release**：2026/05/15
+- **测试集 A 榜发布 / Test-A Release**（非最终测试集，不计分 / Unranked）：2026/05/25
+- **测试集 A 榜提交截止 / Test-A Submission Deadline**：2026/06/20
+- **测试集 B 榜发布 / Test-B Release**（即最终排名成绩 / Official Final Ranking）：2026/06/30
+- **测试集 B 榜提交截止 / Test-B Submission Deadline**：2026/07/10
+- **获奖队伍提交材料 / Award Qualification Submission**（核实无误即可获得颁奖资格，不合格者延顺 / Disqualified teams will be replaced in order）：2026/07/15 – 2026/07/20
+- **提交中英文技术报告 / Technical Report Submission**：2026/07/30
+- **公布颁奖队伍 / Award Announcement**：2026/08/01
+- **评测论文审稿 & 录用通知 / Paper Review & Acceptance Notification**：2026/08/05
 - **评测论文 Camera-Ready 版提交 / Camera-Ready Submission**：2026/08/15
 - **评测论文纠错排版 & 提交 ACL/CCL Anthology 收录 / Anthology Submission**：2026/09/15
 - **CCL 2026 技术评测研讨会 / CCL 2026 Evaluation Workshop**：2026/10
