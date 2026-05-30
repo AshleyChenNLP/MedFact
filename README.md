@@ -53,20 +53,36 @@ Based on the experimental setup and data distribution of the MEDFACT paper, **Ma
 
 ## 评测赛程 | Schedule （暂定）
 
-- **评测任务发布 / Task Release**：2026/02/01
-- **报名时间 / Registration**：2026/02/01 – 2026/06/10
-- **训练集发布 / Training Set Release**：2026/05/15
-- **测试集 A 榜发布 / Test-A Release**（非最终测试集，不计分 / Unranked）：2026/05/25
-- **测试集 A 榜提交截止 / Test-A Submission Deadline**：2026/06/20
-- **测试集 B 榜发布 / Test-B Release**（即最终排名成绩 / Official Final Ranking）：2026/06/30
-- **测试集 B 榜提交截止 / Test-B Submission Deadline**：2026/07/10
-- **获奖队伍提交材料 / Award Qualification Submission**（核实无误即可获得颁奖资格，不合格者延顺 / Disqualified teams will be replaced in order）：2026/07/15 – 2026/07/20
-- **提交中英文技术报告 / Technical Report Submission**：2026/07/30
-- **公布颁奖队伍 / Award Announcement**：2026/08/01
-- **评测论文审稿 & 录用通知 / Paper Review & Acceptance Notification**：2026/08/05
-- **评测论文 Camera-Ready 版提交 / Camera-Ready Submission**：2026/08/15
-- **评测论文纠错排版 & 提交 ACL/CCL Anthology 收录 / Anthology Submission**：2026/09/15
-- **CCL 2026 技术评测研讨会 / CCL 2026 Evaluation Workshop**：2026/10
+## 时间线 | Timeline
+
+* **评测任务发布与宣传 / Task Announcement & Promotion**：2026/02
+
+* **报名时间 / Registration**：2026/05/01 – 2026/06/30
+
+* **训练集发布 / Training Set Release**：2026/05/25
+
+* **测试集 A 榜（验证集）发布 / Test-A Leaderboard Release (Validation Set)**（用于模型开发与调试，不作为最终排名 / For model development, not final ranking）：2026/06/01
+
+* **测试集 A 榜提交截止 / Test-A Submission Deadline**：2026/06/20
+
+* **测试集 B 榜（最终测试集）发布 / Test-B Leaderboard Release (Final Test Set)**（最终官方排名 / Official Final Ranking）：2026/06/26
+
+* **测试集 B 榜提交截止 / Test-B Submission Deadline**：2026/06/30
+
+* **获奖队伍材料提交 / Award Qualification Submission**（核实无误即可获得颁奖资格，不合格者顺延 / Disqualified teams will be replaced in order）：2026/07/01 – 2026/07/9
+
+* **中英文技术报告提交 / Technical Report Submission**：2026/07/10
+
+* **公布获奖队伍 / Award Announcement**：2026/07/25
+
+* **评测论文审稿与录用通知 / Evaluation Paper Review & Acceptance Notification**：2026/07/25
+
+* **评测论文 Camera-Ready 版提交 / Camera-Ready Submission**：2026/08/15
+
+* **评测论文纠错排版并提交 ACL/CCL Anthology 收录 / Final Proofreading & ACL/CCL Anthology Submission**：2026/09/15
+
+* **CCL 2026 技术评测研讨会 / CCL 2026 Evaluation Workshop**：2026/10
+
 
 ## 任务奖项 | Awards
  
@@ -75,6 +91,15 @@ Based on the experimental setup and data distribution of the MEDFACT paper, **Ma
 ---
 
 ## 网站建设与论文评审 | Website & Paper Review
- 组织方正在计划开设一个leaderboard网站，网站上线后将承担报名和结果提交等功能。
+本评测任务已通过 Codabench 平台开放官方 benchmark，支持报名、数据下载、结果提交与排行榜展示。
 
+参赛者可通过以下链接完成报名与提交：
+
+https://www.codabench.org/competitions/16786/
+
+The official benchmark is hosted on Codabench, supporting registration, dataset access, result submission, and leaderboard tracking.
+
+Participants can register and submit results via:
+
+https://www.codabench.org/competitions/16786/
 ---
